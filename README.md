@@ -1,5 +1,4 @@
 <div align="center"><h1>App Delivery</h1></div>
----
 
 # Habilidades
 
