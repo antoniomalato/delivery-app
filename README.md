@@ -187,20 +187,3 @@ O nosso [protótipo](https://www.figma.com/file/cNKu41RhnPIgNqrbMTzmUI/Delivery-
 ## Data-testids
 O data-testid de cada elemento que será usado na avaliação do projeto está no arquivo [data-testids.md](data-testids.md) na raiz do projeto. Cada um desse elementos tem no [protótipo do figma](https://www.figma.com/file/cNKu41RhnPIgNqrbMTzmUI/Delivery-App-new-trybeer?node-id=977%3A391) um número, e nesse arquivo, o `data-testid` que deve ser atribuido ao valor de tal. 
 
-# Requisitos do projeto
-
----
-
-## `Fluxo Comum`
-
-O Fluxo comum deve garantir que seja possível **fazer login** e **registrar** no sistema.
-
----
-
-### `01login.test`
-
-Todos os testes desse arquivo:
-- Verificarão se o banco de dados contém as pessoas usuárias padrão (conforme referência em `db.example.sql`);
-- Farão a navegação para a página principal em `localhost:3000/login`.
-
----
